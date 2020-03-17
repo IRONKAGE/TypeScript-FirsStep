@@ -1,0 +1,10 @@
+http://www.typescriptlang.org/docs/handbook/compiler-options.html#compiler-options
+
+
+https://angular.io/api/core/Component
+
+
+https://github.com/typestack/class-transformer
+
+
+https://github.com/typestack/class-validator
